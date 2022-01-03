@@ -5,7 +5,7 @@ new Vue
     data:
     {
         health:100,
-        ended:false,
+        ended:false,  
     },
 
     methods:{
