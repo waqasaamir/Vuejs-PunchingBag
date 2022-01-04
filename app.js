@@ -1,7 +1,7 @@
 new Vue
 ({
     el:'#vue-app',
-
+     
     data:
     {
         health:100,
@@ -22,6 +22,7 @@ new Vue
         {
             this.health=100;
             this.ended=false;
-        }
+        }  
     }
 })
+  
